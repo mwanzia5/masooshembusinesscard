@@ -6,7 +6,7 @@ ORG:GraphicMasters
 COMPANY:GraphicMasters
 TITLE:Software Developer
 
-ADR;CHARSET=UTF-8;TYPE=WORK:;;shem masoo kilimani apartmentsApt 12B Argwings Kodhek Road kilimani 00100Nairobi kenya;Nairobi;;;Kenya
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Embakasi ,Nairobi,kenya -00521
 TEL;TYPE=Work,pref:+254742991703
 TEL;CELL;TYPE=Mobile,VOICE:
 TEL;TYPE=WORK,VOICE:
@@ -27,8 +27,8 @@ UID:SMART vCARD-100146018
 URL;TYPE=Website:https://graphicmasters.42web.io
 
 URL;TYPE=Calendar:
-URL;TYPE=WhatsApp:
-URL;TYPE=WeChat:
+URL;TYPE=WhatsApp:+254742991703
+URL;TYPE=WeChat:+254742991703
 
 
 
